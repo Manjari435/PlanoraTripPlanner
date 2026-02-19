@@ -22,7 +22,7 @@ npm -v
 ### Step 2 — Open Project in VS Code
 1. Unzip / place the `Planora` folder on your Desktop or any folder
 2. Open VS Code
-3. Click **File → Open Folder** → select the `biscoth` folder
+3. Click **File → Open Folder** → select the `Planora` folder
 4. Open the **Terminal** in VS Code: press `` Ctrl + ` `` (backtick)
 
 ---
